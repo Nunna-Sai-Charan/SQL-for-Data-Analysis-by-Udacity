@@ -1,0 +1,16 @@
+Check all of the below that are true about your learning experience here in the classroom.
+
+Correct Options : 
+
+A. THe code you write in the classroom is exactly What you would write to analyze data in PostgreSQL.
+
+
+C. The code you write in the classroom will allow you to easily pickup any SQL programming including Microsoft SQL Server, Oracle, or SQLite.
+
+
+
+
+
+
+
+
