@@ -1,0 +1,22 @@
+Use the accounts table to find
+
+1. All the companies whose names start with 'C'.
+
+Query :
+SELECT * 
+FROM accounts
+WHERE name LIKE 'C%';
+
+2. All companies whose names contain the string 'one' somewhere in the name.
+
+Query :
+SELECT * 
+FROM accounts
+WHERE name LIKE '%one%';
+
+3. All companies whose names end with 's'.
+
+Query :
+SELECT * 
+FROM accounts
+WHERE name LIKE '%s';
